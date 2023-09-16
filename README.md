@@ -23,5 +23,3 @@ Dưới đây là đánh giá về thời gian chạy của 5 giải thuật s�
 4. **Merge Sort:** Merge Sort là một giải thuật sắp xếp hiệu quả và ổn định. Thời gian chạy của Merge Sort luôn là O(n log n), nghĩa là hiệu suất tốt hơn với số lượng phần tử lớn.
 
 5. **Quick Sort:** Quick Sort là giải thuật sắp xếp hiệu quả dựa trên nguyên tắc chia để trị. Thời gian chạy của Quick Sort trong trường hợp tốt là O(n log n) và trong trường hợp xấu nhất là O(n^2).
-
-Hãy thực hiện thử nghiệm và so sánh thời gian chạy của các giải thuật trên dữ liệu thực tế để hiểu rõ hơn về hiệu suất của chúng.
